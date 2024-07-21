@@ -7,6 +7,7 @@ A comprehensive web-based Job Platform that enables job seekers to search for jo
 # 2.	Modules:
    
 2.1.	User Registration and Authentication: Allows job seekers and employers to create accounts, log in securely, and manage their profiles.
+
 2.2.	Job Search and Listings: Provides a search and filter function for job seekers and job posting capabilities for employers.
 2.3.	Application Management: Enables job seekers to apply for jobs, and employers to review and manage applications.
 2.4.	Resume and Profile Management: Allows job seekers to create and update their resumes and profiles.
