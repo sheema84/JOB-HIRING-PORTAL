@@ -30,13 +30,13 @@ A comprehensive web-based Job Platform that enables job seekers to search for jo
 3.3.	Administrator
 
 # 4.	Features:
-# 4.1.	User Registration and Authentication:
+## 4.1.	User Registration and Authentication:
 
 4.1.1.	Securely registers, logs in, and manages user accounts.
 
 4.1.2.	Implements role-based access controls for job seekers, employers, and administrators.
   	
-# 4.2.	Job Search and Listings:
+## 4.2.	Job Search and Listings:
 4.2.1.	Enables job seekers to search and filter job listings by criteria such as location, industry, job type, and salary.
 
 4.2.2.	Provides employers with the ability to post job listings, including job descriptions, requirements, and application instructions.
@@ -47,25 +47,25 @@ A comprehensive web-based Job Platform that enables job seekers to search for jo
 
 4.3.2.	Provides employers with a dashboard to review and manage job applications.
 
-# 4.4.	Resume and Profile Management:
+## 4.4.	Resume and Profile Management:
 
 4.4.1.	Enables job seekers to create and update their resumes and profiles.
 
 4.4.2.	Includes options for adding work experience, skills, education, and contact information.
   	
-# 4.5.	Employer Dashboard:
+## 4.5.	Employer Dashboard:
 
 4.5.1.	Provides tools for employers to post, edit, and manage job listings.
 
 4.5.2.	Offers options for highlighting job listings or featuring them for a fee.
 
-# 4.6.	Communication and Messaging:
+## 4.6.	Communication and Messaging:
 
 4.6.1.	Facilitates communication between job seekers and employers, including messaging and email notifications.
 
 4.6.2.	Implements a chat system for real-time interaction.
 
-# 4.7.	Reporting and Analytics:
+## 4.7.	Reporting and Analytics:
 
 4.7.1.	Generates reports on job posting statistics, application traffic, and user activity.
 
@@ -73,11 +73,15 @@ A comprehensive web-based Job Platform that enables job seekers to search for jo
 
 # 5.	Technology Stack:
 5.1.	Frontend: PHP, HTML, CSS, JavaScript
+
 5.2.	MySQL server & Database
+
 5.3.	IDE: VS Code
 
-7.	Security and Compliance:
+# 6.	Security and Compliance:
+   
 6.1.	Implements user authentication and authorization.
+  	
 6.2.	Implements access controls for Traveler
 
 
